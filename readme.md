@@ -10,7 +10,7 @@ pip install gensim
 ## 运行：
 
 ````
-run analysis.py
+python analysis.py
 ````
 
 ## model 计算最相似的
